@@ -1,3 +1,0 @@
-# Player de música simples inspirado no Spotify
-
-Esse conteúdo foi desenvolvido como prática pra aprendizagem de JavaScript
